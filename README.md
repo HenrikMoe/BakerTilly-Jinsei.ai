@@ -10,7 +10,7 @@ It is tediuos to hardcode your data transformations for every accounting stateme
 
 # Baker Tilly Solutions 
 
-## 1) Pixel Turbocharged: Upload multiple files with automated formatting for mutliple spreadsheets
+## 1) Turbocharged Chat: Upload multiple files with automated formatting for mutliple spreadsheets
 
 ### Upload multiple files within Pixel chat and have them automtically formatted and synced with the Baker Tilly tool suite. 
 

@@ -6,7 +6,7 @@ Solutions powered by Jax Tensorflow and GPT/Grok.
 
 ## Baker Tilly Problem:
 
-Automate data transformations for every accounting statement.  
+Automating data transformations for every accounting statement.  
 
 # Baker Tilly Solutions 
 
@@ -24,8 +24,8 @@ Automate data transformations for every accounting statement.
 
 ## 2) Multi-SpreadSheet Data Formatting Automation
 
-- excel sheet content to database mapping service 
-- needs investment statements sets from compatible and not compatible excel sheets 
+- excel sheet content to tax calculations interface mapping service 
+- needs investment statements sets from compatible and not compatible excel sheets with pre existing systems
 
 Sequence-to-Sequence TF JAX service for automating multi-spreadsheet content position format standardization.
 

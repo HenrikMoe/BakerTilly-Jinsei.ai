@@ -6,7 +6,7 @@ Solutions powered by Jax Tensorflow and GPT/Grok.
 
 ## Baker Tilly Problem:
 
-It is tediuos to hardcode your data transformations for every accounting statement positional format in the world. It's even more tedious to manually populate data. 
+Automate data transformations for every accounting statement.  
 
 # Baker Tilly Solutions 
 

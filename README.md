@@ -29,6 +29,11 @@ Automating data transformations for every accounting statement.
 
 Sequence-to-Sequence TF JAX service for automating multi-spreadsheet content position format standardization.
 
+## 3) Blockchain Investing Gains On-Chain Data Audit
+
+- audit with bank statements and on chain data for verification of trading gains
+- delivered with chat service and through the Baker Tilly data interface
+
 ### Service Interface/DevOps
 
 Baker Tilly container routing, REST transfer protocol preference.  

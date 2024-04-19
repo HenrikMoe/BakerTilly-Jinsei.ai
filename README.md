@@ -1,5 +1,7 @@
 # Baker Tilly - Jinsei.ai
 
+https://jinsei.ai/bakertilly
+
 Spreadsheet data mapping and automation services with chat assistants.
 
 Solutions powered by Jax Tensorflow and GPT/Grok. 

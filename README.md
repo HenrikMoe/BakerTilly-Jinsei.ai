@@ -21,7 +21,7 @@ Automating data transformations for every accounting statement.
 - Boilerplate Prompt (query syntax) Training: https://github.com/HenrikMoe/jinsei.ai-sbrm-rdf-llm-UI/blob/main/backend/server.js
 - Boilerplate Classification Training: https://github.com/PortalToBlockchainOrganization/CryptoCountAI/blob/master/typeModelResult1.py
 - Integrate Baker Tilly DB Queries to Taxonomy Element pairings 
-- Needs collections of client ROI reports required by Baker Tilly clientele
+- Needs collections of statements by Baker Tilly clientele
 
 
 ## 2) Multi-SpreadSheet Data Formatting Automation

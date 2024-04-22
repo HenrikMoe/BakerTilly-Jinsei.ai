@@ -8,7 +8,7 @@ Solutions powered by Jax Tensorflow and GPT/Grok.
 
 ## Baker Tilly Problem:
 
-Automating data transformations for every accounting statement.  
+Automating data transformations for every accounting statement, extended GPT interface, and on-chain trade gains audit. 
 
 # Baker Tilly Solutions 
 

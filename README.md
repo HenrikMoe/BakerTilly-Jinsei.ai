@@ -2,7 +2,7 @@
 
 https://jinsei.ai/bakertilly
 
-Spreadsheet data mapping and automation services with chat assistants.
+Spreadsheet data mapping automation and turbocharged GPT/Grok extension SaaS.
 
 Solutions powered by Jax Tensorflow and GPT/Grok. 
 

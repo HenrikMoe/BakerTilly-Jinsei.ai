@@ -26,15 +26,15 @@ Automating data transformations for every accounting statement, extended GPT int
 
 ## 2) Multi-SpreadSheet Data Formatting Automation
 
-- excel sheet content to tax calculations interface mapping service 
-- needs investment statements sets from compatible and not compatible excel sheets with pre existing systems
+- Excel sheet content to tax calculations interface mapping service 
+- Needs investment statements sets from compatible and not compatible excel sheets with pre existing systems
 
 Sequence-to-Sequence TF JAX service for automating multi-spreadsheet content position format standardization.
 
 ## 3) Blockchain Investing Gains On-Chain Data Audit
 
-- audit with bank statements and on chain data for verification of trading gains
-- delivered with chat service and through the Baker Tilly data interface
+- Audit with bank statements and on chain data for verification of trading gains
+- Delivered with chat service and through the Baker Tilly data interface
 
 ### Service Interface/DevOps
 

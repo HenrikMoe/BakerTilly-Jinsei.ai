@@ -2,6 +2,8 @@
 
 https://jinsei.ai/bakertilly
 
+Audit based. 
+
 Spreadsheet data mapping automation and turbocharged GPT/Grok extension SaaS.
 
 Solutions powered by Jax Tensorflow and GPT/Grok. 

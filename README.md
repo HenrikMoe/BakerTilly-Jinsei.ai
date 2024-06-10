@@ -2,7 +2,7 @@
 
 https://jinsei.ai/bakertilly
 
-Audit based. 
+Audit based. Needs more specificity. 
 
 Spreadsheet data mapping automation and turbocharged GPT/Grok extension SaaS.
 

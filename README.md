@@ -2,7 +2,7 @@
 
 https://jinsei.ai/bakertilly
 
-Audit based. Needs more specificity. 
+Audit based. Needs more specificity. No Web3 atm. 
 
 Spreadsheet data mapping automation and turbocharged GPT/Grok extension SaaS.
 

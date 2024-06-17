@@ -6,6 +6,8 @@ Audit based. Needs more specificity. No Web3 atm. Statement pool. New google doc
 
 Spreadsheet data mapping automation and turbocharged GPT/Grok extension SaaS.
 
+Storyboard
+
 Solutions powered by Jax Tensorflow and GPT/Grok. 
 
 ## Baker Tilly Problem:

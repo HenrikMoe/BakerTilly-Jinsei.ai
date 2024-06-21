@@ -4,6 +4,8 @@ https://jinsei.ai/bakertilly
 
 Audit based. Needs more specificity. No Web3 atm. Statement pool. New google doc
 
+mortu bus design bus 
+
 Spreadsheet data mapping automation and turbocharged GPT/Grok extension SaaS.
 
 Storyboard p. e. ex asset w a range of bank statements. Phases of pe asset life cycle 

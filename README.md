@@ -8,7 +8,7 @@ mortu bus design bus financing real estate infrastruc depreciation writeoffs.
 
 Spreadsheet data mapping automation and turbocharged GPT/Grok extension SaaS.
 
-Storyboard p. e. ex asset w a range of bank statements. rev Phases and filing and audit phases of pe asset life cycle 
+Storyboard p. e. ex asset w a range of bank statements. rev Phases and filing and audit phases of pe asset life cycle   weed store
 
 Solutions powered by Jax Tensorflow and GPT/Grok. 
 

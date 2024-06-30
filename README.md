@@ -10,6 +10,8 @@ Spreadsheet data mapping automation and turbocharged GPT/Grok extension SaaS.
 
 Storyboard p. e. ex asset w a range of bank statements. rev Phases and filing and audit phases of pe asset life cycle   weed store
 
+crypto mica and vara asset white paper spec
+
 Solutions powered by Jax Tensorflow and GPT/Grok. 
 
 ## Baker Tilly Problem:
